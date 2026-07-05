@@ -7,5 +7,6 @@ DOS Menu for DOS Box terminal interface.  This give you an ASCII menu system to 
 ## Installation
 1. Copy menu.bat to your DOSBox or DOSBox-X C directory.
 2. Add "menu.bat" to the end of your autoexec.bat file.
+3. Edit menu.bat according to your installed games and directory structure.
 
 

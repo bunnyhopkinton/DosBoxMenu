@@ -3,21 +3,21 @@ set GAMES=C:\GAMES
 set ULTIMA=C:\ULTIMA
 :start
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ              DOS BOX              บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. Action Games                บ
-echo         บ    2. Role Playing Games          บ
-echo         บ    3. Simulators                  บ
-echo         บ    4. Strategy Games              บ
-echo         บ    5. Ultima Games                บ
-echo         บ    6. Point and Click             บ
-echo         บ    W. Windows 3.1                 บ
-echo         บ    D. DOS                         บ
-echo         บ    X. Exit DosBox                 บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ              DOS BOX              ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. Action Games                ๏ฟฝ
+echo         ๏ฟฝ    2. Role Playing Games          ๏ฟฝ
+echo         ๏ฟฝ    3. Simulators                  ๏ฟฝ
+echo         ๏ฟฝ    4. Strategy Games              ๏ฟฝ
+echo         ๏ฟฝ    5. Ultima Games                ๏ฟฝ
+echo         ๏ฟฝ    6. Point and Click             ๏ฟฝ
+echo         ๏ฟฝ    W. Windows 3.1                 ๏ฟฝ
+echo         ๏ฟฝ    D. DOS                         ๏ฟฝ
+echo         ๏ฟฝ    X. Exit DosBox                 ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:123456WDX /n Choose an option: 
 if errorlevel 9 goto exit
 if errorlevel 8 goto dos
@@ -32,19 +32,19 @@ goto start
 
 :action
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ              Action               บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. Gauntlet 2                  บ
-echo         บ    2. Scorched Earth              บ
-echo         บ    3. DOOM                        บ
-echo         บ    4. DOOM II                     บ
-echo         บ    5. Absolute Zero               บ
-echo         บ    6. Jill of the Jungle 1        บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ              Action               ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. Gauntlet 2                  ๏ฟฝ
+echo         ๏ฟฝ    2. Scorched Earth              ๏ฟฝ
+echo         ๏ฟฝ    3. DOOM                        ๏ฟฝ
+echo         ๏ฟฝ    4. DOOM II                     ๏ฟฝ
+echo         ๏ฟฝ    5. Absolute Zero               ๏ฟฝ
+echo         ๏ฟฝ    6. Jill of the Jungle 1        ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:123456B /n Choose an option: 
 if errorlevel 7 goto start
 if errorlevel 6 goto jillofthejungle1
@@ -57,23 +57,23 @@ goto action
 
 :rpg
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ        Role Playing Games         บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. Champions of Krynn          บ
-echo         บ    2. Dark Sun - Shattered Lands  บ
-echo         บ    3. Dark Queen of Krynn         บ
-echo         บ    4. Death Knights of Krynn      บ
-echo         บ    5. Eye of the Beholder 1       บ
-echo         บ    6. Eye of the Beholder 2       บ
-echo         บ    7. Eye of the Beholder 3       บ
-echo         บ    8. Knights of Legend           บ
-echo         บ    9. The Magic Candle            บ
-echo         บ    A. Pool of Radiance            บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ        Role Playing Games         ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. Champions of Krynn          ๏ฟฝ
+echo         ๏ฟฝ    2. Dark Sun - Shattered Lands  ๏ฟฝ
+echo         ๏ฟฝ    3. Dark Queen of Krynn         ๏ฟฝ
+echo         ๏ฟฝ    4. Death Knights of Krynn      ๏ฟฝ
+echo         ๏ฟฝ    5. Eye of the Beholder 1       ๏ฟฝ
+echo         ๏ฟฝ    6. Eye of the Beholder 2       ๏ฟฝ
+echo         ๏ฟฝ    7. Eye of the Beholder 3       ๏ฟฝ
+echo         ๏ฟฝ    8. Knights of Legend           ๏ฟฝ
+echo         ๏ฟฝ    9. The Magic Candle            ๏ฟฝ
+echo         ๏ฟฝ    A. Pool of Radiance            ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:123456789AB /n Choose an option: 
 if errorlevel 11 goto start   
 if errorlevel 10 goto poolrad
@@ -90,24 +90,24 @@ goto rpg
 
 :sim
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ            Simulators             บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. Chuck Yeager's Air COmbat   บ
-echo         บ    2. Mech Warrior                บ
-echo         บ    3. Flight of the Intruder      บ
-echo         บ    4. Steel Thunder               บ
-echo         บ    5. Knights of the Sky          บ
-echo         บ    6. Star Wars : Rebel Assault   บ
-echo         บ    7. Star Wars : Tie Fighter     บ
-echo         บ    8. Star Wars : X-Wing          บ
-echo         บ    9. Wing Commander              บ
-echo         บ    W. Wing Commander 2            บ
-echo         บ    M. More                        บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ            Simulators             ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. Chuck Yeager's Air COmbat   ๏ฟฝ
+echo         ๏ฟฝ    2. Mech Warrior                ๏ฟฝ
+echo         ๏ฟฝ    3. Flight of the Intruder      ๏ฟฝ
+echo         ๏ฟฝ    4. Steel Thunder               ๏ฟฝ
+echo         ๏ฟฝ    5. Knights of the Sky          ๏ฟฝ
+echo         ๏ฟฝ    6. Star Wars : Rebel Assault   ๏ฟฝ
+echo         ๏ฟฝ    7. Star Wars : Tie Fighter     ๏ฟฝ
+echo         ๏ฟฝ    8. Star Wars : X-Wing          ๏ฟฝ
+echo         ๏ฟฝ    9. Wing Commander              ๏ฟฝ
+echo         ๏ฟฝ    W. Wing Commander 2            ๏ฟฝ
+echo         ๏ฟฝ    M. More                        ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:123456789WMB /n Choose an option: 
 if errorlevel 12 goto start
 if errorlevel 11 goto simmore
@@ -124,15 +124,15 @@ if errorlevel 1 goto cyac
 goto sim
 
 :simmore
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ            Simulators             บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. A10 Tank                    บ
-echo         บ    2. Abrams Battle Tank          บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ            Simulators             ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. A10 Tank                    ๏ฟฝ
+echo         ๏ฟฝ    2. Abrams Battle Tank          ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:12B /n Choose an option: 
 if errorlevel 12 goto sim
 if errorlevel 2 goto abrams
@@ -147,21 +147,21 @@ goto simmore
 
 :strategy
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ             Strategy              บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. Master of Magic             บ
-echo         บ    2. Master of Orion             บ
-echo         บ    2. Master of Orion 2           บ
-echo         บ    3. Star Control                บ
-echo         บ    4. Star Control 2              บ
-echo         บ    5. Populous 2                  บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ             Strategy              ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. Master of Magic             ๏ฟฝ
+echo         ๏ฟฝ    2. Master of Orion             ๏ฟฝ
+echo         ๏ฟฝ    2. Master of Orion 2           ๏ฟฝ
+echo         ๏ฟฝ    3. Star Control                ๏ฟฝ
+echo         ๏ฟฝ    4. Star Control 2              ๏ฟฝ
+echo         ๏ฟฝ    5. Populous 2                  ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:123456B /n Choose an option: 
-if errorlevel 7 goto exit
+if errorlevel 7 goto start
 if errorlevel 6 goto pop2
 if errorlevel 5 goto starctl2 
 if errorlevel 4 goto starctrl 
@@ -174,24 +174,24 @@ goto strategy
 
 :ultima
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ              Ultima               บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    0. Akalabeth                   บ
-echo         บ    1. Ultima 1                    บ
-echo         บ    2. Ultima 2                    บ
-echo         บ    3. Ultima 3                    บ
-echo         บ    4. Ultima 4 Quest of the Avatarบ
-echo         บ    5. Ultima 5                    บ
-echo         บ    6. Ultima 6                    บ
-echo         บ    7. Ultima 7 False Prophet      บ
-echo         บ    S. Ultima 7p2 Serpent Gate     บ
-echo         บ    8. Ultima 8                    บ
-echo         บ    M. More Ultima                 บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ              Ultima               ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    0. Akalabeth                   ๏ฟฝ
+echo         ๏ฟฝ    1. Ultima 1                    ๏ฟฝ
+echo         ๏ฟฝ    2. Ultima 2                    ๏ฟฝ
+echo         ๏ฟฝ    3. Ultima 3                    ๏ฟฝ
+echo         ๏ฟฝ    4. Ultima 4 Quest of the Avatar๏ฟฝ
+echo         ๏ฟฝ    5. Ultima 5                    ๏ฟฝ
+echo         ๏ฟฝ    6. Ultima 6                    ๏ฟฝ
+echo         ๏ฟฝ    7. Ultima 7 False Prophet      ๏ฟฝ
+echo         ๏ฟฝ    S. Ultima 7p2 Serpent Gate     ๏ฟฝ
+echo         ๏ฟฝ    8. Ultima 8                    ๏ฟฝ
+echo         ๏ฟฝ    M. More Ultima                 ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:01234567S8MB /n Choose an option: 
 if errorlevel 12 goto start   
 if errorlevel 11 goto moreultima
@@ -209,17 +209,17 @@ goto ultima
 
 :moreultima
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ            More Ultima            บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. Ultima Underworld 1         บ
-echo         บ    2. Ultima Underworld 2         บ
-echo         บ    3. WoU - Martian Dreams        บ
-echo         บ    4. WoU - Savage Empire         บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ            More Ultima            ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. Ultima Underworld 1         ๏ฟฝ
+echo         ๏ฟฝ    2. Ultima Underworld 2         ๏ฟฝ
+echo         ๏ฟฝ    3. WoU - Martian Dreams        ๏ฟฝ
+echo         ๏ฟฝ    4. WoU - Savage Empire         ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:1234B /n Choose an option: 
 if errorlevel 5 goto ultima   
 if errorlevel 4 goto savage
@@ -231,16 +231,16 @@ goto moreultima
 
 :pointandclick
 cls
-echo         ษอออออออออออออออออออออออออออออออออออป
-echo         บ          Point and Click          บ
-echo         ฬอออออออออออออออออออออออออออออออออออน
-echo         บ                                   บ
-echo         บ    1. Space Quest 1               บ
-echo         บ    2. Space Quest 2               บ
-echo         บ    3. Space Quest 3               บ
-echo         บ    B. Back                        บ
-echo         บ                                   บ
-echo         ศอออออออออออออออออออออออออออออออออออผ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอป
+echo         ๏ฟฝ          Point and Click          ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอน
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ    1. Space Quest 1               ๏ฟฝ
+echo         ๏ฟฝ    2. Space Quest 2               ๏ฟฝ
+echo         ๏ฟฝ    3. Space Quest 3               ๏ฟฝ
+echo         ๏ฟฝ    B. Back                        ๏ฟฝ
+echo         ๏ฟฝ                                   ๏ฟฝ
+echo         ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอผ
 choice /c:123B /n Choose an option: 
 if errorlevel 4 goto start   
 if errorlevel 3 goto spcqust3
